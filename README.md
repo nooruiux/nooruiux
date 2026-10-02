@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noorxtk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/8801913264543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.behance.net/noorxtk"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://twitter.com/noorxtk"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X (Twitter)" /></a>
-  <a href="https://dribbble.com/Noorxtk"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="https://www.pinterest.com/noorxtk/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://www.linkedin.com/in/noorxtk/"><img src="./assets/badges/linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://wa.me/8801913264543"><img src="./assets/badges/whatsapp.svg" height="40" alt="WhatsApp" /></a>
+  <a href="https://www.behance.net/noorxtk"><img src="./assets/badges/behance.svg" height="40" alt="Behance" /></a>
+  <a href="https://twitter.com/noorxtk"><img src="./assets/badges/x.svg" height="40" alt="X (Twitter)" /></a>
+  <a href="https://dribbble.com/Noorxtk"><img src="./assets/badges/dribbble.svg" height="40" alt="Dribbble" /></a>
+  <a href="https://www.pinterest.com/noorxtk/"><img src="./assets/badges/pinterest.svg" height="40" alt="Pinterest" /></a>
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Discover  →  Define  →  Design  →  Build  →  Ship & Measure
 I take on **UI/UX design, Figma-to-code, landing pages, SaaS marketing sites and WooCommerce stores**.
 
 <p>
-  <a href="https://wa.me/8801913264543?text=Hi%20Noor%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
+  <a href="https://wa.me/8801913264543?text=Hi%20Noor%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project."><img src="./assets/badges/chat-whatsapp.svg" height="40" alt="Chat on WhatsApp" /></a>
   <a href="https://www.linkedin.com/in/noorxtk/"><img src="https://img.shields.io/badge/Start%20a%20project-4F46E5?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a project" /></a>
   <a href="https://www.behance.net/noorxtk"><img src="https://img.shields.io/badge/See%20case%20studies-0F172A?style=for-the-badge&logo=behance&logoColor=white" alt="See case studies" /></a>
 </p>
