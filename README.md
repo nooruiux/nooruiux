@@ -106,15 +106,6 @@ Discover  →  Define  →  Design  →  Build  →  Ship & Measure
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nooruiux&show_icons=true&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=06B6D4&text_color=CBD5E1&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooruiux&layout=compact&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=CBD5E1" alt="Top languages" />
-</p>
-
----
-
 ### 🤝 Let's Work Together
 
 I take on **UI/UX design, Figma-to-code, landing pages, SaaS marketing sites and WooCommerce stores**.
