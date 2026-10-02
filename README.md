@@ -44,36 +44,37 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 <td valign="top" width="33%">
 
 #### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-8B5CF6?style=for-the-badge&logo=storybook&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-EC4899?style=for-the-badge&logo=framer&logoColor=white)
+
+<img src="./assets/skills/figma.svg" height="34" alt="Figma" />
+<img src="./assets/skills/adobe-xd.svg" height="34" alt="Adobe XD" />
+<img src="./assets/skills/design-systems.svg" height="34" alt="Design Systems" />
+<img src="./assets/skills/prototyping.svg" height="34" alt="Prototyping" />
 
 </td>
 <td valign="top" width="33%">
 
 #### 💻 Front-end
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="./assets/skills/nextjs.svg" height="34" alt="Next.js" />
+<img src="./assets/skills/react.svg" height="34" alt="React" />
+<img src="./assets/skills/typescript.svg" height="34" alt="TypeScript" />
+<img src="./assets/skills/javascript.svg" height="34" alt="JavaScript" />
+<img src="./assets/skills/tailwind-css.svg" height="34" alt="Tailwind CSS" />
+<img src="./assets/skills/framer-motion.svg" height="34" alt="Framer Motion" />
+<img src="./assets/skills/html5.svg" height="34" alt="HTML5" />
+<img src="./assets/skills/css3.svg" height="34" alt="CSS3" />
 
 </td>
 <td valign="top" width="33%">
 
 #### 🚀 CMS · Ship · Grow
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+<img src="./assets/skills/wordpress.svg" height="34" alt="WordPress" />
+<img src="./assets/skills/woocommerce.svg" height="34" alt="WooCommerce" />
+<img src="./assets/skills/vercel.svg" height="34" alt="Vercel" />
+<img src="./assets/skills/git.svg" height="34" alt="Git" />
+<img src="./assets/skills/meta-ads.svg" height="34" alt="Meta Ads" />
+<img src="./assets/skills/google-ads.svg" height="34" alt="Google Ads" />
 
 </td>
 </tr>
