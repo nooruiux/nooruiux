@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/badges/status-hc.svg" height="30" alt="Status: Open to Freelance & Contract" />
+  <img src="./assets/badges/status-hc2.svg" height="30" alt="Status: Open to Freelance & Contract" />
   <img src="./assets/badges/location-hc.svg" height="30" alt="Based in Bangladesh (UTC+6)" />
-  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat-square&color=4338CA&label=Profile%20Views" height="30" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat-square&color=4338CA&label=Profile%20Views" width="150" alt="Profile views" />
 </p>
 
 ---
