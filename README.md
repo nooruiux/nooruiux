@@ -114,8 +114,8 @@ I take on **UI/UX design, Figma-to-code, landing pages, SaaS marketing sites and
 
 <p>
   <a href="https://wa.me/8801913264543?text=Hi%20Noor%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project."><img src="./assets/badges/chat-whatsapp-hc.svg" height="40" alt="Chat on WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/noorxtk/"><img src="https://img.shields.io/badge/Start%20a%20project-4F46E5?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a project" /></a>
-  <a href="https://www.behance.net/noorxtk"><img src="https://img.shields.io/badge/See%20case%20studies-0F172A?style=for-the-badge&logo=behance&logoColor=white" alt="See case studies" /></a>
+  <a href="https://www.linkedin.com/in/noorxtk/"><img src="./assets/badges/start-project-hc.svg" height="40" alt="Start a Project" /></a>
+  <a href="https://www.behance.net/noorxtk"><img src="./assets/badges/case-studies-hc.svg" height="40" alt="See Case Studies" /></a>
 </p>
 
 <p align="center">
