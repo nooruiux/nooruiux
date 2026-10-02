@@ -86,7 +86,7 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 |---|---|---|
 | **[WorkUp — Project Management SaaS](https://github.com/nooruiux/Project-Management-SaaS-Website)** | SaaS landing page: feature storytelling, pricing and trial-focused CTAs. Pixel-perfect from Figma. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://project-management-saa-s-website.vercel.app) |
 | **[Quantum — AI Content Writing](https://github.com/nooruiux/Content-Writing-AI-Website)** | Dark AI SaaS landing page with product mockups, integrations and pricing. `Next.js 16` `React 19` `Tailwind v4` | — |
-| **[Lumino — Crypto Mining Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Bitcoin mining site with live profit calculator and trust-first dark UI. `Next.js` `TypeScript` `Framer Motion` | [Demo ↗](https://cryptocurrency-website.vercel.app) |
+| **[Lumino — Crypto Mining Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Bitcoin mining site with live profit calculator and trust-first dark UI. `Next.js` `TypeScript` `Framer Motion` | [Demo ↗](https://cryptocurrency-website-development.vercel.app) |
 | **[Gymnastic — Fitness Training](https://github.com/nooruiux/Fitness-Training-Website)** | Gym website: classes, memberships, trainer profiles and sign-up flow. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://fitness-training-website-bay.vercel.app) |
 | **[GadgetMart 140W Charger Landing Page](https://github.com/nooruiux/140W-Charger-Separator-Landing-Page)** | CRO-focused e-commerce product landing page running live on WooCommerce. `HTML` `CSS` `JS` | [Live ↗](https://gadgetmart.com.bd/140w-fast-charger-separator/) |
 
