@@ -35,7 +35,7 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 ### 🧰 Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,nextjs,react,ts,js,tailwind,html,css,wordpress,vercel,git,github,vscode&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=figma,nextjs,react,ts,js,tailwind,html,css,wordpress,vercel,git,github,vscode&perline=7" alt="Tech stack icons" />
 </p>
 
 <table align="center">
