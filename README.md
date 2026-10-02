@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://personal-porfolio-smoky-seven.vercel.app"><img src="./assets/badges/portfolio-hc.svg" height="40" alt="Portfolio website" /></a>
   <a href="https://www.linkedin.com/in/noorxtk/"><img src="./assets/badges/linkedin-hc.svg" height="40" alt="LinkedIn" /></a>
   <a href="https://wa.me/8801913264543"><img src="./assets/badges/whatsapp-hc.svg" height="40" alt="WhatsApp" /></a>
   <a href="https://www.behance.net/noorxtk"><img src="./assets/badges/behance-hc.svg" height="40" alt="Behance" /></a>
