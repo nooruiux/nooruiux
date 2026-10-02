@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20%26%20contract-22C55E?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20(UTC%2B6)-334155?style=flat-square" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat-square&color=4F46E5&label=Profile+views" alt="Profile views" />
+  <img src="./assets/badges/status-hc.svg" height="30" alt="Status: Open to Freelance & Contract" />
+  <img src="./assets/badges/location-hc.svg" height="30" alt="Based in Bangladesh (UTC+6)" />
+  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat-square&color=4338CA&label=Profile%20Views" height="30" alt="Profile views" />
 </p>
 
 ---
