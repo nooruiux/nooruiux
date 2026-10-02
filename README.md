@@ -15,7 +15,7 @@
 <p align="center">
   <img src="./assets/badges/status-pill.svg" height="28" alt="Status: Open to Freelance & Contract" />
   <img src="./assets/badges/location-pill.svg" height="28" alt="Based in Bangladesh (UTC+6)" />
-  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat-square&color=4338CA&label=Profile%20Views" width="135" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nooruiux&style=flat&color=4338CA&label=Profile%20Views" width="135" alt="Profile views" />
 </p>
 
 ---
