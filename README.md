@@ -1,10 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:4F46E5,100:06B6D4&text=Noor%20Hossain&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=UI%2FUX%20Designer%20%E2%80%A2%20Front-End%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Noor Hossain — UI/UX Designer & Front-End Developer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=I+design+interfaces+people+actually+convert+on.;Figma+%E2%86%92+pixel-perfect+Next.js+%2B+Tailwind.;Design+systems+%E2%80%A2+SaaS+%E2%80%A2+E-commerce+%E2%80%A2+Landing+pages" alt="Typing intro" />
+  <img src="./assets/header.svg" alt="Noor Hossain — UI/UX Designer & Front-End Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -129,5 +125,5 @@ I take on **UI/UX design, Figma-to-code, landing pages, SaaS marketing sites and
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:4F46E5,100:06B6D4" width="100%" alt="" />
+  <sub>Designed & built by Noor Hossain · Dhaka, Bangladesh</sub>
 </p>
