@@ -80,14 +80,15 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Featured Work — Landing Pages & SaaS Websites
 
-| Project | What it is | Stack |
+| Project | What it is | Live |
 |---|---|---|
-| **[Project Management SaaS](https://github.com/nooruiux/Project-Management-SaaS-Website)** | Marketing site for a PM SaaS — feature storytelling, pricing, and trial-focused CTAs. Built pixel-accurate from my Figma design. | Next.js · TypeScript · Tailwind |
-| **[Content Writing AI](https://github.com/nooruiux/Content-Writing-AI-Website)** | Landing page for an AI writing tool — benefit-led hero, use-case sections, social proof. | TypeScript · Tailwind |
-| **[Cryptocurrency Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Crypto product site with trust-first layout, market data blocks and a dark, high-contrast UI. | TypeScript · Tailwind |
-| **[Fitness Training](https://github.com/nooruiux/Fitness-Training-Website)** | Fitness coaching site — programs, trainer profiles and a membership sign-up flow. | TypeScript · Tailwind |
+| **[WorkUp — Project Management SaaS](https://github.com/nooruiux/Project-Management-SaaS-Website)** | SaaS landing page: feature storytelling, pricing and trial-focused CTAs. Pixel-perfect from Figma. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://project-management-saa-s-website.vercel.app) |
+| **[Quantum — AI Content Writing](https://github.com/nooruiux/Content-Writing-AI-Website)** | Dark AI SaaS landing page with product mockups, integrations and pricing. `Next.js 16` `React 19` `Tailwind v4` | — |
+| **[Lumino — Crypto Mining Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Bitcoin mining site with live profit calculator and trust-first dark UI. `Next.js` `TypeScript` `Framer Motion` | [Demo ↗](https://cryptocurrency-website.vercel.app) |
+| **[Gymnastic — Fitness Training](https://github.com/nooruiux/Fitness-Training-Website)** | Gym website: classes, memberships, trainer profiles and sign-up flow. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://fitness-training-website-bay.vercel.app) |
+| **[GadgetMart 140W Charger Landing Page](https://github.com/nooruiux/140W-Charger-Separator-Landing-Page)** | CRO-focused e-commerce product landing page running live on WooCommerce. `HTML` `CSS` `JS` | [Live ↗](https://gadgetmart.com.bd/140w-fast-charger-separator/) |
 
 > 🖼️ Full case studies (research → wireframes → final UI) live on **[Behance](https://www.behance.net/noorxtk)**.
 
