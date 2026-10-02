@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./assets/header-v4.svg" alt="Noor Hossain — UI/UX Designer & Front-End Developer" width="100%" />
+  <img src="./assets/header-v5.svg" alt="Noor Hossain — UI/UX Designer & Front-End Developer" width="100%" />
 </p>
 
 <p align="center">
