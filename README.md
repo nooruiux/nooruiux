@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/noorxtk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/noorxtk"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://twitter.com/noorxtk"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X (Twitter)" /></a>
-  <a href="https://www.instagram.com/noorxtk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dribbble.com/Noorxtk"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
   <a href="https://www.pinterest.com/noorxtk/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
 </p>
 
