@@ -91,7 +91,7 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 | **[Lumino — Crypto Mining Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Bitcoin mining site with live profit calculator and trust-first dark UI. `Next.js` `TypeScript` `Framer Motion` | [Demo ↗](https://cryptocurrency-website-development.vercel.app) |
 | **[Gymnastic — Fitness Training](https://github.com/nooruiux/Fitness-Training-Website)** | Gym website: classes, memberships, trainer profiles and sign-up flow. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://fitness-training-website-bay.vercel.app) |
 | **[Rent — Rent a Car Website](https://github.com/nooruiux/Rent-a-Car-Website)** | Car rental site for Dubai: car booking carousel, category grid with city selector, testimonials and FAQ. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://rent-a-car-website-eight.vercel.app) |
-| **[Nattarol — Skincare E-commerce](https://github.com/nooruiux/Ecommerce-Website-Development)** | Skincare & personal-care storefront with brand showcase and consultation booking. Designed in Figma, build in progress. `Next.js` `TypeScript` `Tailwind` | In progress |
+| **[Nattoral — Skincare E-commerce](https://github.com/nooruiux/Ecommerce-Website-Development)** | Skincare & beauty storefront: shop by category, brand and ingredient, cart, wishlist and consultation booking. `Next.js 16` `TypeScript` `Tailwind v4` | [Demo ↗](https://nattoral-zeta.vercel.app) |
 
 > 🖼️ Full case studies (research → wireframes → final UI) live on **[Behance](https://www.behance.net/noorxtk)**.
 
