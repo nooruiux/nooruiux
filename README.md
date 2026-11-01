@@ -86,6 +86,7 @@ I care about one thing: **interfaces that look premium *and* move metrics** — 
 
 | Project | What it is | Live |
 |---|---|---|
+| **[Noor Hossain — Personal Portfolio](https://github.com/nooruiux/noor-hossain-portfolio)** | My portfolio site: project grid with scrolling full-page previews, light/dark theme, Calendly call booking and an animated bento about section. `HTML` `CSS` `JavaScript` | [Demo ↗](https://noor-hossain-portfolio-ten.vercel.app) |
 | **[WorkUp — Project Management SaaS](https://github.com/nooruiux/Project-Management-SaaS-Website)** | SaaS landing page: feature storytelling, pricing and trial-focused CTAs. Pixel-perfect from Figma. `Next.js` `TypeScript` `Tailwind` | [Demo ↗](https://project-management-saa-s-website.vercel.app) |
 | **[Quantum — AI Content Writing](https://github.com/nooruiux/Content-Writing-AI-Website)** | Dark AI SaaS landing page with product mockups, integrations and pricing. `Next.js 16` `React 19` `Tailwind v4` | [Demo ↗](https://content-writing-ai-website.vercel.app) |
 | **[Lumino — Crypto Mining Platform](https://github.com/nooruiux/Cryptocurrency-Website)** | Bitcoin mining site with live profit calculator and trust-first dark UI. `Next.js` `TypeScript` `Framer Motion` | [Demo ↗](https://cryptocurrency-website-development.vercel.app) |
